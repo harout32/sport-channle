@@ -1,0 +1,46 @@
+body {
+    height: 2000px;
+    background-color: #5D624B;
+    color:white;
+}
+
+.logo11 {
+    width: 35px;
+    top: 10px
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.navbar a {
+    font-weight: bold;
+    color:  #454938 !important;
+}
+
+
+}
+.imagez {
+    width: 100% !important;
+}
+.news-images {
+    max-width: 325px;
+    min-width: 325px
+}
+.well {
+    background-color: #BFCC96;
+}
+.player-pic {
+    width: 60px
+}
+table{
+    min-width: 500px
+}
+td{
+    font-weight: bold;
+    color: #454938;
+    text-align: center;
+}
+th{
+    text-align: center;
+}
